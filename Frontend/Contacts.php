@@ -49,34 +49,14 @@
    
      	<div id="header_title">Contact Us</div>
 		<div class="content1_info">
-        	<h3>Office</h3>
-            <p>Justice Romauldez</p>
-            <p>Tacloban City,Leyte</p>
-            <p>Philppines, 6500</p>
-            <p></p>
-        	<table>
-            	<tr>
-                	<th>Chief Operation Manager</th><th>Publishing Director</th>
-                </tr>
-                <tr>
-                	<td>Jarylmea Tarinque Alvero</td><td>Evan Grace Badar</td>
-                </tr>
-                <tr>
-                	<td>&nbsp;</td><td>&nbsp;</td>
-                </tr>
-                <tr>
-                	<th>Contact Numbers</th><th></th>
-                </tr>
-                <tr>
-                	<td>Email</td><td>bmegmusic@yahoo.com</td>
-                </tr>
-                <tr>
-                	<td>Fax No.</td><td>+632.376.2556</td>          
-                </tr>
-                <tr>
-                	<td>Tel No.</td><td>323-3564</td>          
-                </tr>
-            </table>
+        	<h3>WTL Mini Project by:</h3>
+            <ul>
+                <li>PD 49 Ayush Patel</li>
+                <li>PD 50 Aayushi Lilha</li>
+                <li>PD 51 Rishiraj Panjwani</li>
+                <li>PD 52 Jaynam Modi</li>
+            </ul>
+            <h3>Batch D4</h3>
         </div>
     </div><!--End second column-->
 </div>
